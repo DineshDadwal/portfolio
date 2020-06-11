@@ -1,0 +1,99 @@
+.navbar .navbar-light .bg-dark{
+   font-style: oblique;
+   font-family:  ALTERNATE GOTHIC;
+   font-weight: bolder;
+}
+ .fa {
+   padding: blue ;
+   font-size: 20px;
+   height: 50px;
+   width: 50px;
+   text-align: center;
+   text-decoration: none;
+ }
+ .fa-facebook {
+   background: #3B5998;
+   color: white;
+   margin-left: 5px;
+   border-radius: 50%;
+ }
+ 
+ .fa-twitter {
+   background: #55ACEE;
+   color: white;
+   margin-left: 5px;
+   border-radius: 50%;
+ }
+ .fa-linkedin {
+   background: #007bb5;
+   color: white;
+   border-radius: 50%;
+   margin-left: 5px;
+ }
+ .fa-instagram {
+   background: #e6084a;
+   color: white;
+   border-radius: 50%;
+   margin-left: 5px;
+ }
+
+
+ h1{
+    padding: red 10px;
+    text-size-adjust : 30px;
+    text-decoration-color: red;
+    text-shadow: gray;
+    color: red;
+    margin: 50px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: fast;
+    font-stretch: wider;
+    
+ }
+ h3{
+    text-align: center;
+    text-decoration: seashell;
+    color: seashell;
+ }
+
+ .hobbies{
+    text-align: center;
+    color: red;
+
+ }
+
+.navbar-brand:hover{
+   border-radius: 50%;
+   background-color: grey;
+}
+.nav-link:hover{
+   border-radius: 50%;
+   background-color: grey;
+}
+
+.baby:hover{
+   background-color: grey;
+ 
+}
+.fa:hover{
+   background-color: grey;
+}
+.CONTEXT{
+   padding: 10px;
+   
+}
+.media:hover{
+   background-color: rgb(19, 136, 204);
+   color: cornsilk;
+}
+marquee{
+   color:rgb(19, 136, 204) ;
+   font-size: 30px;
+   font-weight: bolder;
+   text-shadow: darkturquoise;
+   padding: 20px;
+}
+.hello:hover{
+   background-color:rgb(19, 136, 204) ;
+}
